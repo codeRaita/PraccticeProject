@@ -1,2 +1,3 @@
 # PraccticeProject
-This is first repo
+This is first repo.
+Author - Manish Rai
